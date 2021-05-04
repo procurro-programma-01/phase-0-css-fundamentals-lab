@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {  /*  Exceptional Realty Group */
+  text-align: center;
+  color: red;
+}
+
+nav a {  /* Links */
+padding-left: 10px;
+padding-right: 10px;
+background-color: black;
+}
+
+nav p {  /* Link Text */
+text-align: center;
+ }
+
+figcaption { /* Photo by Denise  Richards */
+text-align: center;
+font-size: small;
+}
+ 
+#featured-property p{
+
+  text-align: center;
+ width: 800px;
+ margin-left: auto;
+margin-right: auto;
+}
+
+#featured-property img{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 75%;
+
+}
+ 
+#details div{
+
+background-color: blueviolet;
+float: left;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+width: 25%;
+}
